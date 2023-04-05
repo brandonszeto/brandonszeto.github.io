@@ -14,6 +14,10 @@
 
 Hello, my name is Brandon Szeto and I'm interested in the intersection of the fields of computer science and electrical engineering. 
 
+<p align="center">
+<img src="https://user-images.githubusercontent.com/99768694/230155558-53b8fa68-aecc-46e4-875e-b146b3eb8271.jpg" width="125">
+</p>
+
 **About me**
 - 📘 Computer Engineering student at the [University of California, San Diego](https://ucsd.edu)
 - 💬 You can find me on [LinkedIn](https://www.linkedin.com/in/Brandon-szeto/), my (work in progress) [personal website](https://brandonszeto.com/), or you can [email me](mailto:bszeto@ucsd.edu).
@@ -23,7 +27,6 @@ Hello, my name is Brandon Szeto and I'm interested in the intersection of the fi
 ![Top Langs](https://github-readme-stats-brandonszeto.vercel.app/api/top-langs/?username=brandonszeto&layout=compact&langs_count=10&theme=transparent)
 
 [!["Buy Me A Coffee"](https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png)](https://www.buymeacoffee.com/brandonszeto)
-
 
 An inspiring quote I recently heard was actually *during* CSE 110 lecture:
 
@@ -76,3 +79,6 @@ Some of my goals for the year of 2023 include:
 - [ ] Eat healthy
 - [ ] Bench 225
 - [ ] Work on new projects
+
+Deliverables can be found:
+[Screenshots](/screenshots)
