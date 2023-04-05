@@ -15,7 +15,7 @@
 Hello, my name is Brandon Szeto and I'm interested in the intersection of the fields of computer science and electrical engineering. 
 
 <p align="center">
-<img src="https://user-images.githubusercontent.com/99768694/230155558-53b8fa68-aecc-46e4-875e-b146b3eb8271.jpg" width="125">
+<img src="https://user-images.githubusercontent.com/99768694/230157969-b801c0a7-f2a9-4a9f-bcd1-688fb3a7b17c.png" width="600">
 </p>
 
 **About me**
